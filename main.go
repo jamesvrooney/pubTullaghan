@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	leitrim.ToThePub()
+	leitrim.Where()
 }
